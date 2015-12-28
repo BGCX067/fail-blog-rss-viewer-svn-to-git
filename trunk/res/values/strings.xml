@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fail Blog Viewer</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="title_settings_cacheCount">Picture Cache</string>
+    <string name="summary_settings_cacheCount">Determine the maximum number of images to cache for quick viewing.</string>
+    <string name="dialog_title_settings_cacheCount">Enter Number</string>
+    <string name="title_settings_updateInterval">Update Interval</string>
+    <string name="summary_settings_updateInterval">How long to wait before checking for new content.</string>
+    <string name="dialog_title_settings_updateInterval">Enter Minutes</string>
+    <string name="share_label">Share</string>
+    <string name="favorite_label">Favorite</string>
+    <string name="back">Back</string>
+    <string name="about_title">About This App</string>
+    <string name="about_description">This is a sample app made for the Cincinnati Android User Group.  This app will read in an RSS feed from failblog.org and display the resulting images in a gallery format for the user to freely and easily browse through.  Advanced features include the ability to add certain images as favorites, cache images for faster loading, and the ability to share an image through some common social media platforms.</string>
+
+    <item type="id" name="download_notification_id" />
+
+</resources>
